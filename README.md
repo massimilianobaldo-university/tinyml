@@ -8,7 +8,7 @@ This is a porting of the existing repository of my professor [Alvise Sapnò](htt
 The main reason of this porting is to use the dotnet cli for executing the entire program, and not be oblige to use the Visual Studio IDE.
 
 ## Installation
-You can simply clone the repo using the command `git clone https://github.com/massimilianobaldo/TinyML`.
+You can simply clone the repo using the command `git clone https://github.com/massimilianobaldo/tinyml`.
 
 ## Usage
 Move inside the directory *"./src/TinyML"*.
